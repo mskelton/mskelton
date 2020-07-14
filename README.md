@@ -2,7 +2,7 @@
 
 I'm a software developer and follower of Christ located in Madison, Wisconsin. I currently work at [Widen Enterprises](https://github.com/Widen) as a Junior JavaScript Engineer.
 
-## 🔭 Recent Projects
+## 🔭 Recent projects
 
 - I developed [JetBrains One Dark Theme](https://github.com/one-dark/jetbrains-one-dark-theme) which has become a very popular color theme for JetBrains IDEs. Recently I've been working with [@Unthrottled](http://github.com/Unthrottled) to continue making improvements to the theme.
 - My most recent large project is [PropTypes to TS](https://github.com/mskelton/prop-types-to-ts), an CLI/web tool to automatically convert React propTypes to TypeScript definitions.
