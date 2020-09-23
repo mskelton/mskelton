@@ -4,8 +4,9 @@ I'm a software developer and follower of Christ located in Madison, Wisconsin. I
 
 ## 🔭 Recent projects
 
+- [VS Code npm Outdated](https://github.com/mskelton/vscode-npm-outdated) extension which displays diagnostics in package.json files for outdated packages with the ability to quickly update to the latest version.
+- [PropTypes to TS](https://github.com/mskelton/prop-types-to-ts), a CLI/web tool to automatically convert React propTypes to TypeScript definitions.
 - I developed [JetBrains One Dark Theme](https://github.com/one-dark/jetbrains-one-dark-theme) which has become a very popular color theme for JetBrains IDEs. Recently I've been working with [@Unthrottled](http://github.com/Unthrottled) to continue making improvements to the theme.
-- My most recent large project is [PropTypes to TS](https://github.com/mskelton/prop-types-to-ts), an CLI/web tool to automatically convert React propTypes to TypeScript definitions.
 
 ## 🌱 I’m currently learning
 
