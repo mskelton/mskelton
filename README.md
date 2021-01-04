@@ -1,6 +1,6 @@
 ### Hi, I'm Mark 👋
 
-I'm a software developer and follower of Christ located in Madison, Wisconsin. I currently work at [Widen Enterprises](https://github.com/Widen) as a Junior JavaScript Engineer.
+I'm a software developer and follower of Christ located in Madison, Wisconsin. I currently work at [Widen Enterprises](https://github.com/Widen) as a JavaScript Engineer.
 
 ## 🔭 Recent projects
 
