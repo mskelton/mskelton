@@ -10,9 +10,8 @@ I'm a software developer and follower of Christ located in Madison, Wisconsin. I
 
 ## 🌱 I’m currently learning
 
-- [Yarn 2](https://yarnpkg.com). I'm in the process of transitioning Yarn 1 applications at home and work to Yarn 2. Really loving the new features in Yarn 2!
-- [webpack 5](https://webpack.js.org). My company has been using webpack for a while, but with the release of webpack 5 I'm giving our webpack configuration a nice refresh.
-- [Rust](https://www.rust-lang.org). A lot of buzz about Rust so it seemed like a good time to see what it's all about.
+- [Go](https://golang.org). I always enjoy learning new languages and Go seemed like an easy to learn yet powerful language.
+- [Forex](https://en.wikipedia.org/wiki/Foreign_exchange_market). I've begun exploring the world of foreign exchange, MetaTrader 4/5, expert advisors, and more.
 
 ## ⚡ Fun facts
 
