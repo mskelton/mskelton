@@ -1,6 +1,6 @@
 ### Hi, I'm Mark 👋
 
-I'm a software developer and follower of Christ located in Madison, Wisconsin. I currently work at [Widen Enterprises](https://github.com/Widen) as a JavaScript Engineer.
+I'm a software developer and follower of Christ located in Monroe, Wisconsin. I currently work at [Widen Enterprises](https://github.com/Widen) as a JavaScript Engineer.
 
 ## 🔭 Recent projects
 
@@ -17,4 +17,4 @@ I'm a software developer and follower of Christ located in Madison, Wisconsin. I
 
 - The first programming language I learned was Python which I almost never use anymore. 🐍
 - I'm terrible at design and yet I maintain color themes for 2 IDEs and 2 websites. 🤷
-- I'm currently the youngest employee at my company at 21 years old. 👶
+- I'm currently the youngest employee at my company at 22 years old. 👶
