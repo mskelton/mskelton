@@ -4,14 +4,15 @@ I'm a software developer and follower of Christ located in Monroe, Wisconsin. I 
 
 ## 🔭 Recent projects
 
-- [Yarn 2 outdated plugin](https://github.com/mskelton/yarn-plugin-outdated) to provide similar functionality to `yarn outdated` but for Yarn 2. This was my first time writing a Yarn plugin and the docs are a little scarce so it was an interesting learning opportunity.
-- I've been working on an internal project at my company for making it super easy to create Playwright selectors. I'd like to open source it eventually as I think it has some really interesting potential.
-- [VS Code npm Outdated](https://github.com/mskelton/vscode-npm-outdated) extension which displays diagnostics in package.json files for outdated packages with the ability to quickly update to the latest version.
+- [Yarn 2 outdated plugin](https://github.com/mskelton/yarn-plugin-outdated). I've been using this plugin for quite a while now, but recently updated it to support Yarn 3 with some neat features including lockfile aware outdated dependency checking.
+- [Lariat](https://github.com/Widen/lariat) which is an open source library I've been developing for my company to reduce boilerplate when creating page objects for Playwright tests.
+- [Prop Types to TS](https://github.com/mskelton/prop-types-to-ts). This tool has matured quite a lot since I first started on in it May of 2020. Most recently I've added support for JSDoc comments and fixed some pretty wild edge cases that my company actually ran into when using the tool.
 
 ## 🌱 I’m currently learning
 
 - [Go](https://golang.org). I always enjoy learning new languages and Go seemed like an easy to learn yet powerful language.
 - [Forex](https://en.wikipedia.org/wiki/Foreign_exchange_market). I've begun exploring the world of foreign exchange, MetaTrader 4/5, expert advisors, and more.
+- Ergonomics, starting with my purchase of the [Moonlander](https://www.zsa.io/moonlander/) keyboard from ZSA. Super excited to continue to learn more about ergonomics and maintaining a healthy body while doing the things I love to do.
 
 ## ⚡ Fun facts
 
