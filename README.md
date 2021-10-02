@@ -17,5 +17,5 @@ I'm a software developer and follower of Christ located in Monroe, Wisconsin. I 
 ## ⚡ Fun facts
 
 - The first programming language I learned was Python which I almost never use anymore. 🐍
-- I like macOS for desktop but Android for mobile. 🖥
-- I live in Wisconsin so I love the cold and cheese. ❄️ 🧀
+- I dislike design and yet I maintain color themes for 2 IDEs and 2 websites. 🤷
+- I'm currently the youngest employee at my company at 22 years old. 👶
