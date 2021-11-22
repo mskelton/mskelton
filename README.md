@@ -1,6 +1,6 @@
 ### Hi, I'm Mark 👋
 
-I'm a software engineer and follower of Christ located in Monroe, Wisconsin. I currently work at [Widen Enterprises](https://github.com/Widen) as a JavaScript Engineer.
+I'm a software engineer and follower of Christ located in Monroe, Wisconsin. I currently work at [Nextiva](https://www.nextiva.com) as a Senior Software Engineer.
 
 ## 🔭 Recent projects
 
