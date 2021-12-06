@@ -16,7 +16,7 @@ While I am a software engineer and a total nerd, I'm a huge extrovert and love s
 
 ## 🌱 I’m currently learning
 
-- [Go](https://golang.org). I always enjoy learning new languages and Go seemed like an easy to learn yet powerful language.
+- [Tensorflow](https://www.tensorflow.org/js). I'm starting to learn about machine learning with Tensorflow for a small side project I'm working on.
 - [Forex](https://en.wikipedia.org/wiki/Foreign_exchange_market). I've begun exploring the world of foreign exchange, MetaTrader 4/5, expert advisors, and more.
 - Ergonomics, starting with my purchase of the [Moonlander](https://www.zsa.io/moonlander/) keyboard from ZSA. Super excited to continue to learn more about ergonomics and maintaining a healthy body while doing the things I love to do.
 
