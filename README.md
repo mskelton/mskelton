@@ -1,8 +1,6 @@
 ### Hi, I'm Mark 👋
 
-I'm a software engineer and follower of Christ located in Monroe, Wisconsin. I currently work at [Nextiva](https://www.nextiva.com) as a Senior Software Engineer.
-
-I'm a senior front-end software engineer currently working at Nextiva. While I'm not afraid of CSS, my true passion lies in JavaScript engineering and developer experience (DX). I love finding ways to simplify or improve development workflow to save time and make it more fun to work on applications. Wait, did I forget to mention how much I love TypeScript?
+I'm a JavaScript engineer and lead developer working at [Widen](https://www.widen.com). While I'm not afraid of CSS, my true passion lies in JavaScript engineering and developer experience (DX). I love finding ways to simplify or improve development workflow to save time and make it more fun to work on applications. Wait, did I forget to mention how much I love TypeScript?
 
 Outside of work, I'm a small town kid from Wisconsin who loves small town life almost as much as I like snow and winter. In my free time I like working on my house, spending time with my girlfriend, and playing disc golf. I am also a devout Christian seeking to be more like Jesus in word, thought, and deed.
 
