@@ -22,4 +22,3 @@ While I am a software engineer and a total nerd, I'm a huge extrovert and love s
 
 - The first programming language I learned was Python which I almost never use anymore. 🐍
 - I dislike design and yet I maintain color themes for 2 IDEs and 2 websites. 🤷
-- I'm currently the youngest employee at my company at 22 years old. 👶
