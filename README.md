@@ -8,19 +8,18 @@ While I am a software engineer and a total nerd, I'm a huge extrovert and love s
 
 ## 🔭 Recent projects
 
-- [Analyzer](https://github.com/mskelton/analyzer). A open-source monitoring and analysis platform for forex trading. Built using Remix, Mongo, and Tailwind.
-- [mskelton.dev](https://mskelton.dev). Still tweaking and improving my personal website which is the new home of my blog posts. Farewell Medium.
-- [Lariat](https://github.com/Widen/lariat). My company has adopted [Playwright](https://playwright.dev/) for end-to-end testing, and Lariat is an open source library I developed for them to reduce boilerplate when creating page objects.
+- [mskelton.dev](https://mskelton.dev). Recently updated my website to a new Tailwind powered theme.
+- [dotfiles](https://github.com/mskelton/dotfiles). I know, dotfiles seems like an odd project, but I've been doing a lot to improve my configuration as I dive deeper into the world of Neovim and terminals.
+- [dottie](https://github.com/mskelton/dottie). After encountering some limitations of [dotbot](https://github.com/anishathalye/dotbot), I decided to write my own bash based dotfile manager. Surprisingly simple, yet very powerful.
 
 ## 🌱 I’m currently learning
 
-- [Remix](https://remix.run). There has been a lot of discussion about Remix lately, and I'm learning and using it as I build Analyzer. So far, I've been very happy with it and understand the reason for the hype! 💿
-- [Forex](https://en.wikipedia.org/wiki/Foreign_exchange_market). I've begun exploring the world of foreign exchange, MetaTrader 4/5, expert advisors, and more. 💵
-- Ergonomics, starting with my purchase of the [Moonlander](https://www.zsa.io/moonlander/) keyboard from ZSA. Super excited to continue to learn more about ergonomics and maintaining a healthy body while doing the things I love to do. ⌨️
+- [Golang](https://go.dev). I've been exploring the possibility of getting back into backend development, and Go is a great language I've been learning and using for various projects.
+- [ZMK](https://zmk.dev). I've been using a Moonlander keyboard but recently purchased a Kenesis Advantage 360 and am digging into the ZMK firmware docs to understand how best to setup this new keyboard.
+- [Next.js 13](https://nextjs.org/blog/next-13). A bit of trend-following here, but quite excited to learn more about Next 13 and ways I can use it's concepts even for projects that don't use Next.
 
 ## ⚡ Fun facts
 
 - The first programming language I learned was Python which I almost never use anymore. 🐍
-- I dislike design and yet I maintain color themes for 2 IDEs and 2 websites. 🤷
-- I play the Ukulele and I am re-learning the Piano. 🎹
+- I play the Ukulele daily. 🎸
 - I've had many hobbies over the years including locksmithing, Rubik's cubes, Braille, and more. 🔐
