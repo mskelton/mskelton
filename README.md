@@ -21,5 +21,5 @@ While I am a software engineer and a total nerd, I'm a huge extrovert and love s
 ## ⚡ Fun facts
 
 - The first programming language I learned was Python which I almost never use anymore. 🐍
-- I play the Ukulele daily. 🎸
 - I've had many hobbies over the years including locksmithing, Rubik's cubes, Braille, and more. 🔐
+- I play the Ukulele daily. 🎸
