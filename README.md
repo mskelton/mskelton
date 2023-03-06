@@ -1,6 +1,6 @@
 ### Hi, I'm Mark 👋
 
-I'm a staff software engineer working at [Widen](https://www.widen.com), an [Acquia](https://www.acquia.com) company. While I'm not afraid of CSS, my true passion lies in JavaScript engineering and developer experience (DX). I love finding ways to simplify or improve development workflow to save time and make it more fun to work on applications. Wait, did I forget to mention how much I love TypeScript?
+I'm a senior software engineer working at [Federato](https://www.federato.ai/). While I'm not afraid of CSS, my true passion lies in JavaScript engineering and developer experience (DX). I love finding ways to simplify or improve development workflow to save time and make it more fun to work on applications. Wait, did I forget to mention how much I love TypeScript?
 
 Outside of work, I'm a small town kid from Wisconsin who loves small town life almost as much as I like snow and winter. In my free time I like working on my house, spending time with family and friends, and playing disc golf. I am also a devout Christian seeking to be more like Jesus in word, thought, and deed.
 
