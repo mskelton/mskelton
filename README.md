@@ -8,16 +8,16 @@ While I am a software engineer and a total nerd, I'm a huge extrovert and love s
 
 ## 🔭 Recent projects
 
+- [flashlight](https://github.com/mskelton/flashlight). A Rust and SWC powered search tool to track JS/TS code imported from a specific import source.
+- [dtsfmt](https://github.com/mskelton/dtsfmt). An auto formatter for device tree source files written in Rust, powered by tree-sitter.
 - [termicons](https://github.com/mskelton/termicons). VS Code material icons repackaged and optimized for terminal rendering.
-- [termicons.nvim](https://github.com/mskelton/termicons.nvim). Neovim companion plugin to termicons.
-- [dottie](https://github.com/mskelton/dottie). After encountering some limitations of [dotbot](https://github.com/anishathalye/dotbot), I decided to write my own bash based dotfile manager. Surprisingly simple, yet very powerful.
 
 ## 🌱 I’m currently learning
 
-- [Tailwind](https://tailwindcss.com). I use Tailwind personally and professionally and I'm currently reading fully through the docs.
-- [Next.js 13](https://nextjs.org/blog/next-13). A bit of trend-following here, but quite excited to learn more about Next 13 and ways I can use it's concepts even for projects that don't use Next.
+- [Rust](https://www.rust-lang.org). I've been diving more into Rust lately to build highly performant developer tooling.
+- [React ARIA](https://react-spectrum.adobe.com/react-aria/index.html). A headless component library for React that is just plain awesome.
 - [Figma](https://www.figma.com). My work on termicons has helped me get a little familiar with Figma, and I feel like I just stepped into a whole new world of design.
-- [Luarocks](https://luarocks.org). I created a couple luarocks for termicons.nvim which proved to be an interesting learning experience into another language's package manager.
+- [Next.js 13](https://nextjs.org/blog/next-13). A bit of trend-following here, but quite excited to learn more about Next 13 and ways I can use it's concepts even for projects that don't use Next.
 
 ## ⚡ Fun facts
 
