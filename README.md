@@ -10,7 +10,7 @@ and a little Rust sprinkled here and there doesn't hurt.
 
 Outside of work, I'm a Wisconsin native who loves small-town life
 almost as much as I like snow and winter. In my free time, I like working on my
-house, spending time with family and friends, and playing disc golf. My life
+house, spending time with my fiancé, and playing disc golf. My life
 is dedicated to the service of Jesus and sharing the good news of the gospel
 to the ends of the earth. My hope is for men and women to find in Jesus the
 only true hope for this life, and the life to come.
